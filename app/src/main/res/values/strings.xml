@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_php</string>
+    <string name="login_default_text">Already Registered ? \n Click Here to Login</string>
+</resources>
